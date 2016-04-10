@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Olga</string>
+	<key>Email</key>
+	<string>o.romankiv@gmail.com</string>
+	<key>Product</key>
+	<string>SourceTree</string>
+	<key>Signature</key>
+	<data>Es+BXlo3PIaWLudoNYj0oRsZYiMGVAjMmrSTiOzLuTzLBLVf0W+3JRmNTGRla4TBEa0o+Jmjm8UJ
+h3kUub8OFnJdrtgMKqzERTS2IYJKP589JJALDFqwTtyYscPIACcy7BY0vJ1jNeEMBnaVgtadisTe
+dyPypgqSwNBrqyFYGiY=
+</data>
+</dict>
+</plist>
